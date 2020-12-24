@@ -1,0 +1,11 @@
+{
+  "serverUrl": "http://localhost:8080",
+  "projectName": "Demo",
+  "isStrict": false,
+  "outPath": "src/main/resources/static/doc",
+  "allInOne": true,
+  "allInOneDocFileName":"index.html",
+  "coverOld": true,
+  "createDebugPage": true,
+  "showAuthor": true
+}
